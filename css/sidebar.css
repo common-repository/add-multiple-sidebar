@@ -1,0 +1,5 @@
+.widdelet {position: absolute;right: 50px;top: 15px;}
+.cs-options .error_wid {border-color: red;}
+.cs-options .dashicons{padding: 4px;}
+.inwidget {width: 25%; padding: 12px 5px; margin: 8px 0; display: inline-block; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;}
+.cs-action { padding: 7px 20px !important; margin: 8px 0 !important; height: auto!important;}
